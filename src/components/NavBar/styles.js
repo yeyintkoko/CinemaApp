@@ -5,6 +5,7 @@ module.exports = StyleSheet.create({
         flexDirection: 'row',
         backgroundColor: 'red',
         height: 50,
+        alignItems: 'center',
         paddingHorizontal: 10,
     },
     navHeader: {
@@ -26,7 +27,7 @@ module.exports = StyleSheet.create({
         borderWidth: 1,
         borderColor: 'rgba(0,0,0,0.5)',
         borderRadius: 5,
-        height: 42,
+        height: 40,
         fontSize: 16,
         paddingHorizontal: 10,
     },
